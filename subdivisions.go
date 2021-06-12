@@ -3116,7 +3116,7 @@ func (s SubdivisionCode) String() string { //nolint:cyclop,gocyclo
 	case SubdivisionGBSCB:
 		return "Scottish Borders, The"
 	case SubdivisionGBSCT:
-		return "SCT"
+		return "SCO"
 	case SubdivisionGBSFK:
 		return "Suffolk"
 	case SubdivisionGBSFT:
