@@ -2916,7 +2916,7 @@ func (s SubdivisionCode) String() string { //nolint:cyclop,gocyclo
 	case SubdivisionGBENF:
 		return "Enfield"
 	case SubdivisionGBENG:
-		return "England"
+		return "ENG"
 	case SubdivisionGBERW:
 		return "East Renfrewshire"
 	case SubdivisionGBERY:
@@ -3116,7 +3116,7 @@ func (s SubdivisionCode) String() string { //nolint:cyclop,gocyclo
 	case SubdivisionGBSCB:
 		return "Scottish Borders, The"
 	case SubdivisionGBSCT:
-		return "Scotland"
+		return "SCT"
 	case SubdivisionGBSFK:
 		return "Suffolk"
 	case SubdivisionGBSFT:
@@ -3204,7 +3204,7 @@ func (s SubdivisionCode) String() string { //nolint:cyclop,gocyclo
 	case SubdivisionGBWLN:
 		return "West Lothian"
 	case SubdivisionGBWLS:
-		return "Wales; Cymru"
+		return "WAL"
 	case SubdivisionGBWLV:
 		return "Wolverhampton"
 	case SubdivisionGBWND:
